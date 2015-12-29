@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/XSL/Format">
+  <layout-master-set>
+    <simple-page-master master-name="master" page-width="1010px" margin-top="60px" margin-bottom="80px" margin-left="60px" margin-right="60px">
+      <region-body column-count="2" reference-orientation="0" column-gap="30px" />
+      <region-after extent="5px" />
+    </simple-page-master>
+    <page-sequence-master master-name="PagingAll">
+      <repeatable-page-master-reference master-reference="master" />
+    </page-sequence-master>
+  </layout-master-set>
+  <page-sequence master-reference="PagingAll" format="1">
+    <static-content flow-name="xsl-region-after">
+      <block font="5pt Helvetica" color="#666666" margin-right="8px" margin-left="8px">The Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.com</block>
+      <block text-align="right">
+        <inline color="#000000" text-align="right" font="5pt Helvetica">
+          <page-number />
+        </inline>
+      </block>
+    </static-content>
+    <flow flow-name="xsl-region-body" span="all">
+      <block>
+        <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" content-width="890px" />
+      </block>
+      <block margin-left="350px" span="all">
+        <block font="10pt Helvetica" margin-top="35px" height="58px">Volume 14, Number 169</block>
+        <block font="22pt Helvetica" margin-top="10px" height="41px">Daily Guide</block>
+        <block font="22pt Helvetica" margin-top="7px" height="41px">August 28, 2008</block>
+        <block margin-top="15px" border="1px solid #cccccc" />
+        <block font="16pt Helvetica" margin-top="15px" height="42px">Michael Johnson</block>
+        <block font="16pt Helvetica" margin-top="10px" height="42px">Johnson Construction, LLC</block>
+        <block font="16pt Helvetica" margin-top="10px" height="42px">Eugene, OR</block>
+        <block margin-top="18px" border="1px solid #cccccc" />
+        <block font="15pt Helvetica" margin-top="20px" height="200px">Construction Services and Building Supplies</block>
+        <block font="9pt Helvetica" height="42px">This is vertical information for Construction Services and Building Supplies.This is vertical information for Construction Services and Building Supplies.This is vertical information for Construction Services and Building Supplies.This is vertical information for Construction Services and Building Supplies.This is vertical information for Construction Services and Building Supplies.This is vertical information for Construction Services and Building Supplies</block>
+      </block>
+    </flow>
+  </page-sequence>
+  <page-sequence master-reference="PagingAll">
+    <flow flow-name="xsl-region-body">
+      <block>
+        <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" content-width="890px" />
+      </block>
+      <block>
+        <inline>&lt;&lt;Table Of Content&gt;&gt;</inline>
+      </block>
+    </flow>
+  </page-sequence>
+  <page-sequence master-reference="PagingAll" format="1">
+    <flow flow-name="xsl-region-body" span="all">
+      <block-container height="47px" width="890px" span="all" background-image="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" background-repeat="no-repeat" display-align="center">
+        <block margin-left="250px">
+          <table>
+            <table-body>
+              <table-row>
+                <table-cell width="500px">
+                  <block font="14pt Helvetica" color="#FFFFFF">Daily Guide, August 28, 2008</block>
+                </table-cell>
+                <table-cell>
+                  <block font="7pt Helvetica" color="#FFFFFF">Volume 16, Issue 169</block>
+                </table-cell>
+              </table-row>
+            </table-body>
+          </table>
+        </block>
+      </block-container>
+      <block>
+        <inline>&lt;&lt; Cover Page&gt;&gt;</inline>
+      </block>
+    </flow>
+  </page-sequence>
+  <page-sequence master-reference="PagingAll" format="1">
+    <static-content flow-name="xsl-region-after">
+      <block font="5pt Helvetica" color="#666666" margin-right="8px" margin-left="8px">The Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.com</block>
+      <block text-align="right">
+        <inline color="#000000" text-align="right" font="5pt Helvetica">
+          <page-number />
+        </inline>
+      </block>
+    </static-content>
+    <flow flow-name="xsl-region-body" span="all">
+      <block-container height="47px" width="890px" span="all" background-image="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" background-repeat="no-repeat" display-align="center">
+        <block margin-left="250px">
+          <table>
+            <table-body>
+              <table-row>
+                <table-cell width="500px">
+                  <block font="14pt Helvetica" color="#FFFFFF">Daily Guide, August 28, 2008</block>
+                </table-cell>
+                <table-cell>
+                  <block font="7pt Helvetica" color="#FFFFFF">Volume 16, Issue 169</block>
+                </table-cell>
+              </table-row>
+            </table-body>
+          </table>
+        </block>
+      </block-container>
+      <block font="7pt Helvetica" color="#666666" margin-top="8px" margin-left="8px" span="all">Saved Search 1</block>
+      <block font="14pt Helvetica" color="#000000" margin-top="8px" margin-left="8px" span="all">A &amp; E Oregon (1 of 2)</block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+      <block margin-right="8px" margin-left="8px" span="all">
+        <table>
+          <table-body>
+            <table-row>
+              <table-cell width="420px">
+                <block>
+                  <table>
+                    <table-column column-width="108px" />
+                    <table-column />
+                    <table-body>
+                      <table-row height="13px">
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Type</block>
+                        </table-cell>
+                        <table-cell>
+                          <block font="9pt Helvetica" color="#000000">Amendment:</block>
+                        </table-cell>
+                      </table-row>
+                      <table-row height="13px">
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Project Name</block>
+                        </table-cell>
+                        <table-cell>
+                          <block>
+                            <basic-link external-destination="url('http://www.google.com/')" text-decoration="underline" color="#0033CC" font="12pt Helvetica">Replace Domiciliary Building</basic-link>
+                          </block>
+                        </table-cell>
+                      </table-row>
+                      <table-row>
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Submittal Date</block>
+                        </table-cell>
+                        <table-cell>
+                          <block font="9pt Helvetica" color="#000000">09/08/2008</block>
+                        </table-cell>
+                      </table-row>
+                    </table-body>
+                  </table>
+                </block>
+              </table-cell>
+              <table-cell padding-left="30px">
+                <block>
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/ResearchOnlline.gif')" content-width="135px" />
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/PlanHolderList.gif')" content-width="135px" />
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/BiddersList.gif')" content-width="135px" />
+                </block>
+              </table-cell>
+            </table-row>
+          </table-body>
+        </table>
+      </block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+      <block>Project Details - Under Construction</block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+    </flow>
+  </page-sequence>
+  <page-sequence master-reference="PagingAll" format="1">
+    <static-content flow-name="xsl-region-after">
+      <block font="5pt Helvetica" color="#666666" margin-right="8px" margin-left="8px">The Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.com</block>
+      <block text-align="right">
+        <inline color="#000000" text-align="right" font="5pt Helvetica">
+          <page-number />
+        </inline>
+      </block>
+    </static-content>
+    <flow flow-name="xsl-region-body" span="all">
+      <block-container height="47px" width="890px" span="all" background-image="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" background-repeat="no-repeat" display-align="center">
+        <block margin-left="250px">
+          <table>
+            <table-body>
+              <table-row>
+                <table-cell width="500px">
+                  <block font="14pt Helvetica" color="#FFFFFF">Daily Guide, August 28, 2008</block>
+                </table-cell>
+                <table-cell>
+                  <block font="7pt Helvetica" color="#FFFFFF">Volume 16, Issue 169</block>
+                </table-cell>
+              </table-row>
+            </table-body>
+          </table>
+        </block>
+      </block-container>
+      <block font="7pt Helvetica" color="#666666" margin-top="8px" margin-left="8px" span="all">Saved Search 2</block>
+      <block font="14pt Helvetica" color="#000000" margin-top="8px" margin-left="8px" span="all">A &amp; E Oregon (2 of 2</block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+      <block margin-right="8px" margin-left="8px" span="all">
+        <table>
+          <table-body>
+            <table-row>
+              <table-cell width="420px">
+                <block>
+                  <table>
+                    <table-column column-width="108px" />
+                    <table-column />
+                    <table-body>
+                      <table-row height="13px">
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Type</block>
+                        </table-cell>
+                        <table-cell>
+                          <block font="9pt Helvetica" color="#000000">Amendment:</block>
+                        </table-cell>
+                      </table-row>
+                      <table-row height="13px">
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Project Name</block>
+                        </table-cell>
+                        <table-cell>
+                          <block>
+                            <basic-link external-destination="url('http://www.google.com/')" text-decoration="underline" color="#0033CC" font="12pt Helvetica">Replace Domiciliary Building</basic-link>
+                          </block>
+                        </table-cell>
+                      </table-row>
+                      <table-row>
+                        <table-cell>
+                          <block font="7pt Helvetica" color="#666666">Submittal Date</block>
+                        </table-cell>
+                        <table-cell>
+                          <block font="9pt Helvetica" color="#000000">09/08/2008</block>
+                        </table-cell>
+                      </table-row>
+                    </table-body>
+                  </table>
+                </block>
+              </table-cell>
+              <table-cell padding-left="30px">
+                <block>
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/ResearchOnlline.gif')" content-width="135px" />
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/PlanHolderList.gif')" content-width="135px" />
+                  <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/BiddersList.gif')" content-width="135px" />
+                </block>
+              </table-cell>
+            </table-row>
+          </table-body>
+        </table>
+      </block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+      <block>Project Details - Under Construction</block>
+      <block alignment-baseline="central">
+        <leader leader-length="890px" leader-pattern="rule" alignment-baseline="top" rule-thickness="2px" color="#cccccc" />
+      </block>
+    </flow>
+  </page-sequence>
+  <page-sequence master-reference="PagingAll">
+    <flow flow-name="xsl-region-body">
+      <block>
+        <external-graphic src="url('http://services.dev.onvia.com/glengarry/Resources/GuideTestData/Images/GuideCoverTopBar.gif')" content-width="890px" />
+      </block>
+      <block>
+        <inline>&lt;&lt;Index Page&gt;&gt;</inline>
+      </block>
+    </flow>
+  </page-sequence>
+</root>

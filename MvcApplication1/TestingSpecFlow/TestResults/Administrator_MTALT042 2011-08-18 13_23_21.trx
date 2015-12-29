@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="05011431-6153-4d6e-94e8-deae319d0a01" name="Administrator@MTALT042 2011-08-18 13:23:21" runUser="MTALT042\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="adff75a4-7c2e-41eb-ace4-74f44b9933a8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MTALT042 2011-08-18 13_23_21">
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\SpecFlow.1.7.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-18T13:23:21.2225378-04:00" queuing="2011-08-18T13:23:22.4176061-04:00" start="2011-08-18T13:23:22.5806155-04:00" finish="2011-08-18T13:23:50.7542269-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AddTwoStrings" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="21f4c6be-d174-c720-b71a-62728be093bb">
+      <Description>Add Two strings</Description>
+      <Execution id="54315b00-3e03-4e16-b4f6-c55e032fa23b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21f4c6be-d174-c720-b71a-62728be093bb" executionId="54315b00-3e03-4e16-b4f6-c55e032fa23b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="54315b00-3e03-4e16-b4f6-c55e032fa23b" testId="21f4c6be-d174-c720-b71a-62728be093bb" testName="AddTwoStrings" computerName="MTALT042" duration="00:00:26.2154663" startTime="2011-08-18T13:23:22.7326242-04:00" endTime="2011-08-18T13:23:50.6492209-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54315b00-3e03-4e16-b4f6-c55e032fa23b">
+      <Output>
+        <StdOut>Given I have entered 30 into computer
+-&gt; done: BindingSteps.IHaveEnteredIntoComputer(30) (4.7s)
+And I have entered 70 into computer
+-&gt; done: BindingSteps.IHaveEnteredIntoComputer(70) (2.4s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (2.3s)
+Then the result should be 100 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(100) (4.5s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Links>
+	<Env>
+		<Name>Dev</Name>
+		<kbr>
+			<url>
+				<link>http://kbr.dev.kaplan.com</link>
+				<description>Dev Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbr.dev.kaplan.com:100</link>
+				<description>Dev Flashcards</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</kbr>
+		<kbrcms>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</kbrcms>
+		<OAM>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</OAM>
+		<Mercury>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</Mercury>
+		<Kaptest>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</Kaptest>
+	</Env>
+	<Env>
+		<Name>QA</Name>
+		<kbr>
+			<url>
+				<link>http://kbr.dev.kaplan.com</link>
+				<description>Dev Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbr.dev.kaplan.com:100</link>
+				<description>Dev Flashcards</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</kbr>
+		<kbrcms>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</kbrcms>
+		<OAM>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</OAM>
+		<Mercury>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</Mercury>
+		<Kaptest>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_KBR_CMS</DB>
+				<AdditionalInfo>Feedback branch</AdditionalInfo>
+			</url>
+			<url>
+				<link>http://kbrcms.dev.kaplan.com:100</link>
+				<description>Dev CMS Feedback</description>
+				<DBServer>pmbrdbdev01</DBServer>
+				<DB>DEV_FC_KBR_CMS</DB>
+				<AdditionalInfo>Flashcard branch</AdditionalInfo>
+			</url>
+		</Kaptest>
+	</Env>
+</Links>

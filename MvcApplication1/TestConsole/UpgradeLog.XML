@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestConsole">
+</Property><Property Name="Solution File" Value="D:\Projects\TestConsole\TestConsole.sln">
+</Property><Property Name="Date" Value="Monday, October 15, 2012">
+</Property><Property Name="Time" Value="23:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TestConsole" Source="TestConsole\TestConsole.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestConsole" Source="TestConsole\TestConsole.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestConsole.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestConsole.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestConsole" Source="TestConsole\TestConsole.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<vce id="SKW+Cm2Ekwqk" authenticated-user="xantony" projects="query-meta velocity">
+  <list path="" num="100" level="0" more="root|root" start="0" per="10" subsearch="0">
+
+	<cover id="cover">
+		<content name="volume" type="html"><![CDATA[14]]></content>
+		<content name="number" type="html"><![CDATA[169]]></content>
+		<content name="subscriptionType" type="html"><![CDATA[Daily]]></content>
+		<content name="subscriptionDate" type="html"><![CDATA[Aug 28 2008]]></content>
+		<content name="name" type="html"><![CDATA[Michael Johnson]]></content>
+		<content name="company" type="html"><![CDATA[Johnson Construction, LLC]]></content>
+		<content name="city" type="html"><![CDATA[Eugene]]></content>
+		<content name="state" type="html"><![CDATA[OR]]></content>
+		<content name="onviaAccountExecutive" type="html"><![CDATA[Jane Smolyenko]]></content>
+		<content name="phone" type="html" ><![CDATA[(888) 393-4567]]></content>
+		<content name="vertical" type="html" id="Construction Services and Building Supplies"><![CDATA[Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies Text for Vertical Construction Services and Building Supplies]]></content>
+		<content name="vertical" type="html" id="Financial Services &amp; Insurance"><![CDATA[Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance Text for Vertical Financial Services &amp; Insurance]]></content>
+		<content name="vertical" type="html" id="Energy"><![CDATA[text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here. text for Energy vertical entered here.]]></content>
+	</cover>
+	
+    <!-- Project Detail 1 Amendment-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="savedSearchName" type="html"><![CDATA[A & E Oregon]]></content>
+      <content name="type" type="html"><![CDATA[Amendment]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Replace Domiciliary Building]]></content>
+      <content name="submittalDate" type="text" action="cluster"><![CDATA[09/08/2008]]></content>
+      <content name="owner" type="text" link="http://google.com" action="cluster"><![CDATA[US Department of Veterans Affairs, Northwest Health Network]]></content>
+      <content name="ownerWebsite" type="text" action="cluster"><![CDATA[http://www.usva.gov]]></content>
+      <content name="locationCity" type="text" action="cluster"><![CDATA[(1) VANCOUVER]]></content>
+      <content name="locationState" type="text" action="cluster"><![CDATA[WA]]></content>
+      <content name="zipCode" type="text" action="cluster"><![CDATA[97503, 98662]]></content>
+      <content name="country" type="text" action="cluster"><![CDATA[JACKSON, OR; CLARK, WA]]></content>
+      <content name="value" type="text" action="cluster"><![CDATA[$5,000,000.00 to $10,000,000.00]]></content>
+      <content name="marketSector" type="html" action="cluster"><![CDATA[Federal]]></content>
+      <content name="buyer" type="html" link="http://google.com" action="cluster"><![CDATA[Lorna Craig]]></content>
+      <content name="buyerRole" type="html" action="cluster"><![CDATA[Contracting Officer]]></content>
+      <content name="buyerPhone" type="html" action="cluster"><![CDATA[(503) 220-8262]]></content>
+      <content name="onviaReferenceNumber" type="html" action="cluster"><![CDATA[8057595 - 06/23/2008]]></content>
+      <content name="projectNumber" type="html" action="cluster"><![CDATA[HSCG87-08-B-643027]]></content>
+      <content name="Documents" link="http://google.com" type="html" action="cluster"><![CDATA[Amendment]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[9/2/2008]]></content>
+      <content name="googleMapURL" type="html" action="cluster"><![CDATA[http://maps.google.com]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[Y--Replace Domiciliary Building 218 Solicitation Number:
+        VA-260-08-RP-0403 Agency: Department of Veterans Affairs Office: VA Northwest Health Network Location: VA Northwest
+        Health Network General Information Original Posted Date:July 24, 2008 Posted Date: Aug 21, 2008 Res- ponse Date: September
+        8, 2008 Original Response Date: September 15,2008 Original Set Aside: N/A Set Aside: N/A Classification Code: Y --
+        Construction of structures and facilities NAICS Code: 236 -Commercial and Institutional Building Construction Contracting
+        Office Address: Department of Veterans Affairs;VA NW Health Network (VISN 20);Vancouver Square at the Mall, Suite
+        203;5115NE 82nd AVE;Vancouver WA 98662 Place of Performance:Department of Veterans Affairs;Southern Oregon
+        Rehabilitation Center and Clinics;8495 Crater Lake Hwy;White City, OR 97503 USA Solicitation Number: VA-260-08-RP- 0403
+        Notice Type:Modification/Amendment Please consult the list of document viewers if you cannot open a file. Point ofContact(s):
+        Lorna CraigContracting Officer 503-220-8262 Lorna.Craig@va.gov ***Original Synopsis*** Synopsis:
+        Added:Jul 24, 2008 6:53 pm Project Renovate Domiciliary Building 218 Project #692-333. The RFP will be issued on a full
+        andopen basis for construction. The location is White City, Oregon. General Construction: Contractor shall furnish all
+        necessary labor, material, and equipment to provide a complete building, including all utility systems, and associated components
+        as shown on thedrawings and described by the specifications.This includes, but is not limited to, demolition of existing
+        structures, general construction, alterations, site development, landscaping, drainage, mechanical, electrical, and certain other
+        items. Asbestos and lead paint removal are included in the project. The magnitude of construction is between $5,000,000
+        and$10,000,000. The RFP solicitation is anticipated to be issued on or about August 8, 2008, and offers will be due on
+        orabout September 10, 2008. No public bid opening procedures are applicable to this solicitation. A firm fixed price contract is
+        anticipated to be awarded using Best Value evaluation criteria. Anticipated award date is September 20, 2008.]]>
+      </content>
+    </document>
+    
+    <!-- Project Detail 2 Amendment-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="savedSearchName" type="html"><![CDATA[A & E Oregon]]></content>
+      <content name="type" type="html"><![CDATA[Amendment]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Replace Domiciliary Building]]></content>
+      <content name="submittalDate" type="text" action="cluster"><![CDATA[09/08/2008]]></content>
+      <content name="owner" type="text" link="http://google.com" action="cluster"><![CDATA[US Department of Veterans Affairs, Northwest Health Network]]></content>
+      <content name="ownerWebsite" type="text" action="cluster"><![CDATA[http://www.usva.gov]]></content>
+      <content name="locationCity" type="text" action="cluster"><![CDATA[(1) VANCOUVER]]></content>
+      <content name="locationState" type="text" action="cluster"><![CDATA[WA]]></content>
+      <content name="zipCode" type="text" action="cluster"><![CDATA[97503, 98662]]></content>
+      <content name="country" type="text" action="cluster"><![CDATA[JACKSON, OR; CLARK, WA]]></content>
+      <content name="value" type="text" action="cluster"><![CDATA[$5,000,000.00 to $10,000,000.00]]></content>
+      <content name="marketSector" type="html" action="cluster"><![CDATA[Federal]]></content>
+      <content name="buyer" type="html" link="http://google.com" action="cluster"><![CDATA[Lorna Craig]]></content>
+      <content name="buyerRole" type="html" action="cluster"><![CDATA[Contracting Officer]]></content>
+      <content name="buyerPhone" type="html" action="cluster"><![CDATA[(503) 220-8262]]></content>
+      <content name="onviaReferenceNumber" type="html" action="cluster"><![CDATA[8057595 - 06/23/2008]]></content>
+      <content name="projectNumber" type="html" action="cluster"><![CDATA[HSCG87-08-B-643027]]></content>
+      <content name="Documents" link="http://google.com" type="html" action="cluster"><![CDATA[Amendment]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[9/2/2008]]></content>
+      <content name="googleMapURL" type="html" action="cluster"><![CDATA[http://maps.google.com]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[Y--Replace Domiciliary Building 218 Solicitation Number:
+        VA-260-08-RP-0403 Agency: Department of Veterans Affairs Office: VA Northwest Health Network Location: VA Northwest
+        Health Network General Information Original Posted Date:July 24, 2008 Posted Date: Aug 21, 2008 Res- ponse Date: September
+        8, 2008 Original Response Date: September 15,2008 Original Set Aside: N/A Set Aside: N/A Classification Code: Y --
+        Construction of structures and facilities NAICS Code: 236 -Commercial and Institutional Building Construction Contracting
+        Office Address: Department of Veterans Affairs;VA NW Health Network (VISN 20);Vancouver Square at the Mall, Suite
+        203;5115NE 82nd AVE;Vancouver WA 98662 Place of Performance:Department of Veterans Affairs;Southern Oregon
+        Rehabilitation Center and Clinics;8495 Crater Lake Hwy;White City, OR 97503 USA Solicitation Number: VA-260-08-RP- 0403
+        Notice Type:Modification/Amendment Please consult the list of document viewers if you cannot open a file. Point ofContact(s):
+        Lorna CraigContracting Officer 503-220-8262 Lorna.Craig@va.gov ***Original Synopsis*** Synopsis:
+        Added:Jul 24, 2008 6:53 pm Project Renovate Domiciliary Building 218 Project #692-333. The RFP will be issued on a full
+        andopen basis for construction. The location is White City, Oregon. General Construction: Contractor shall furnish all
+        necessary labor, material, and equipment to provide a complete building, including all utility systems, and associated components
+        as shown on thedrawings and described by the specifications.This includes, but is not limited to, demolition of existing
+        structures, general construction, alterations, site development, landscaping, drainage, mechanical, electrical, and certain other
+        items. Asbestos and lead paint removal are included in the project. The magnitude of construction is between $5,000,000
+        and$10,000,000. The RFP solicitation is anticipated to be issued on or about August 8, 2008, and offers will be due on
+        orabout September 10, 2008. No public bid opening procedures are applicable to this solicitation. A firm fixed price contract is
+        anticipated to be awarded using Best Value evaluation criteria. Anticipated award date is September 20, 2008.]]>
+      </content>
+    </document>
+    
+    
+    <!-- Project Detail 3 for Pre-planning-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+      <content name="savedSearchName" type="html"><![CDATA[A & E Nevada]]></content>
+      <content name="type" type="html"><![CDATA[Pre Planning]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+      <content name="location" type="text" action="cluster"><![CDATA[CLARK County, NV]]></content>
+      <content name="publicationDate" type="text" action="cluster"><![CDATA[6/1/2007]]></content>
+      <content name="meetingDate" type="text" action="cluster"><![CDATA[3/6/2007]]></content>
+      <content name="developmentType" type="text" action="cluster"><![CDATA[Residential]]></content>
+      <content name="proposedProduct" type="text" action="cluster"><![CDATA[Acers - 5.1]]></content>
+      <content name="entitlementStatus" type="text" action="cluster"><![CDATA[Conceptual Plan Submitted]]></content>
+      <content name="projectAddress" type="text" action="cluster"><![CDATA[(1) East Side of Steptoe Street and the North Side of Hamilton Avenue Within Whitney, NV]]></content>
+      <content name="zoningChange" type="text" action="cluster"><![CDATA[No]]></content>
+      <content name="notes" type="text" action="cluster"><![CDATA[RUD (Residential Urban Density) Zone]]></content>
+      <content name="contacts" type="html" action="cluster">
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Civiltec, Inc]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[70 East Horizon Ridge Parkway,Suite 190, Henderson,NV,89002]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Paulette Stacy]]></content>
+        </contact>
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+          <content name="role" type="html" action="cluster"><![CDATA[Applicant, Owner]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[5070 Tara Ave,#116,Las Vegas,NV,89146]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Steven Grandview]]></content>
+          <content name="title" type="html" action="cluster"><![CDATA[Vice President]]></content>
+          <content name="department" type="html" action="cluster"><![CDATA[Engineering]]></content>
+          <content name="phone" type="html" action="cluster"><![CDATA[589) 555-5678]]></content>
+          <content name="fax" type="html" action="cluster"><![CDATA[589) 555-5600]]></content>
+          <content name="email" type="html" link="http://google.com" action="cluster"><![CDATA[Steven.Grandview@Steptoe.com]]></content>
+        </contact>
+      </content>
+      <content name="planningOfficials" type="html" action="cluster"><![CDATA[CLARK - Planning Commission]]></content>
+      <content name="planningOfficialsAddress" type="html" action="cluster"><![CDATA[500 S. Grand Central Pkwy., P.O. Box 551744 "89155-1744", , NV 89155]]></content>
+      <content name="planningOfficialsWebsite" type="html" action="cluster"><![CDATA[http://dsnet.co.clark.nv.us/]]></content>
+      <content name="projectFile#" type="html" action="cluster"><![CDATA[LU 08-0014,LU 00-0071,LUO3-0009]]></content>
+      <content name="APN#" type="html" action="cluster"><![CDATA[21E O8BB]]></content>
+      <content name="onviaNumber" type="html" action="cluster"><![CDATA[408454443]]></content>
+      <content name="documents" type="html" link="http://google.com" action="cluster"><![CDATA[Council Document]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[Added 9/2/2008]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[UC-1723-06 STEPTOE GARDEN CO., LP:USE PERMIT for a planned unit development.DESIGN REVIEW for site layout
+            and model design on 5.1 acres in an RUD (Residential Urban Density) Zone. Generally located on the east side of
+            Steptoe Street and the north side of Hamilton Avenue within Whitney. RR/gt/es]]>
+      </content>
+  </document>
+  
+   <!-- Project Detail 4 for Pre-planning-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+      <content name="savedSearchName" type="html"><![CDATA[A & E Nevada]]></content>
+      <content name="type" type="html"><![CDATA[Pre Planning]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+      <content name="location" type="text" action="cluster"><![CDATA[CLARK County, NV]]></content>
+      <content name="publicationDate" type="text" action="cluster"><![CDATA[6/1/2007]]></content>
+      <content name="meetingDate" type="text" action="cluster"><![CDATA[3/6/2007]]></content>
+      <content name="developmentType" type="text" action="cluster"><![CDATA[Residential]]></content>
+      <content name="proposedProduct" type="text" action="cluster"><![CDATA[Acers - 5.1]]></content>
+      <content name="entitlementStatus" type="text" action="cluster"><![CDATA[Conceptual Plan Submitted]]></content>
+      <content name="projectAddress" type="text" action="cluster"><![CDATA[(1) East Side of Steptoe Street and the North Side of Hamilton Avenue Within Whitney, NV]]></content>
+      <content name="zoningChange" type="text" action="cluster"><![CDATA[No]]></content>
+      <content name="notes" type="text" action="cluster"><![CDATA[RUD (Residential Urban Density) Zone]]></content>
+      <content name="contacts" type="html" action="cluster">
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Civiltec, Inc]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[70 East Horizon Ridge Parkway,Suite 190, Henderson,NV,89002]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Paulette Stacy]]></content>
+        </contact>
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+          <content name="role" type="html" action="cluster"><![CDATA[Applicant, Owner]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[5070 Tara Ave,#116,Las Vegas,NV,89146]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Steven Grandview]]></content>
+          <content name="title" type="html" action="cluster"><![CDATA[Vice President]]></content>
+          <content name="department" type="html" action="cluster"><![CDATA[Engineering]]></content>
+          <content name="phone" type="html" action="cluster"><![CDATA[589) 555-5678]]></content>
+          <content name="fax" type="html" action="cluster"><![CDATA[589) 555-5600]]></content>
+          <content name="email" type="html" link="http://google.com" action="cluster"><![CDATA[Steven.Grandview@Steptoe.com]]></content>
+        </contact>
+      </content>
+      <content name="planningOfficials" type="html" action="cluster"><![CDATA[CLARK - Planning Commission]]></content>
+      <content name="planningOfficialsAddress" type="html" action="cluster"><![CDATA[500 S. Grand Central Pkwy., P.O. Box 551744 "89155-1744", , NV 89155]]></content>
+      <content name="planningOfficialsWebsite" type="html" action="cluster"><![CDATA[http://dsnet.co.clark.nv.us/]]></content>
+      <content name="projectFile#" type="html" action="cluster"><![CDATA[LU 08-0014,LU 00-0071,LUO3-0009]]></content>
+      <content name="APN#" type="html" action="cluster"><![CDATA[21E O8BB]]></content>
+      <content name="onviaNumber" type="html" action="cluster"><![CDATA[408454443]]></content>
+      <content name="documents" type="html" link="http://google.com" action="cluster"><![CDATA[Council Document]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[Added 9/2/2008]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[UC-1723-06 STEPTOE GARDEN CO., LP:USE PERMIT for a planned unit development.DESIGN REVIEW for site layout
+            and model design on 5.1 acres in an RUD (Residential Urban Density) Zone. Generally located on the east side of
+            Steptoe Street and the north side of Hamilton Avenue within Whitney. RR/gt/es]]>
+      </content>
+  </document>
+  </list>
+</vce>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WORDGenerator", "WORDGenerator\WORDGenerator.csproj", "{B318D9E1-88B1-443E-AE93-007C98CDFBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B318D9E1-88B1-443E-AE93-007C98CDFBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B318D9E1-88B1-443E-AE93-007C98CDFBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B318D9E1-88B1-443E-AE93-007C98CDFBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B318D9E1-88B1-443E-AE93-007C98CDFBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

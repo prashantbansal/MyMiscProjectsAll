@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="572b0eb5-04d4-4b7a-9334-d694f53640aa" name="Administrator@MTALT042 2011-08-18 13:40:47" runUser="MTALT042\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="adff75a4-7c2e-41eb-ace4-74f44b9933a8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MTALT042 2011-08-18 13_40_47">
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\SpecFlow.1.7.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-18T13:40:47.4363778-04:00" queuing="2011-08-18T13:40:48.5164396-04:00" start="2011-08-18T13:40:48.6714484-04:00" finish="2011-08-18T13:41:12.3878049-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="2" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MTALT042" outcome="Error" timestamp="2011-08-18T13:41:12.3868049-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AddTwoNumbers" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="a1c1b963-130f-00a3-3544-6e38c450935b">
+      <Description>Add two numbers</Description>
+      <Execution id="78c4441a-5082-477d-8ff4-fd4d5dd68a35" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoNumbers" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a">
+      <Execution id="ee1a089b-21f8-45c6-afd6-35bc90263dce" />
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.UnitTest1, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="AddTwoStrings" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="21f4c6be-d174-c720-b71a-62728be093bb">
+      <Description>Add Two strings</Description>
+      <Execution id="53991cbb-765e-4211-8572-a71e5901420e" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21f4c6be-d174-c720-b71a-62728be093bb" executionId="53991cbb-765e-4211-8572-a71e5901420e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1c1b963-130f-00a3-3544-6e38c450935b" executionId="78c4441a-5082-477d-8ff4-fd4d5dd68a35" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" executionId="ee1a089b-21f8-45c6-afd6-35bc90263dce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="53991cbb-765e-4211-8572-a71e5901420e" testId="21f4c6be-d174-c720-b71a-62728be093bb" testName="AddTwoStrings" computerName="MTALT042" duration="00:00:23.5403464" startTime="2011-08-18T13:40:48.8474585-04:00" endTime="2011-08-18T13:41:12.3878049-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53991cbb-765e-4211-8572-a71e5901420e">
+    </UnitTestResult>
+    <UnitTestResult executionId="78c4441a-5082-477d-8ff4-fd4d5dd68a35" testId="a1c1b963-130f-00a3-3544-6e38c450935b" testName="AddTwoNumbers" computerName="MTALT042" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="78c4441a-5082-477d-8ff4-fd4d5dd68a35">
+    </UnitTestResult>
+    <UnitTestResult executionId="ee1a089b-21f8-45c6-afd6-35bc90263dce" testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" testName="TestMethod1" computerName="MTALT042" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ee1a089b-21f8-45c6-afd6-35bc90263dce">
+    </UnitTestResult>
+  </Results>
+</TestRun>

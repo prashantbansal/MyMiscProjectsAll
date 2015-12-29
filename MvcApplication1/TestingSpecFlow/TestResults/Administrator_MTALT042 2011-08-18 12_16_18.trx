@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c3e2e030-2693-4d3e-aaf4-3d989330538c" name="Administrator@MTALT042 2011-08-18 12:16:18" runUser="MTALT042\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="adff75a4-7c2e-41eb-ace4-74f44b9933a8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MTALT042 2011-08-18 12_16_18">
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\SpecFlow.1.7.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-18T12:16:18.9864791-04:00" queuing="2011-08-18T12:16:19.9515342-04:00" start="2011-08-18T12:16:20.1075432-04:00" finish="2011-08-18T12:16:21.5206240-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a">
+      <Execution id="ca996190-6384-439c-b988-8524083bf5dc" />
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.UnitTest1, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" executionId="ca996190-6384-439c-b988-8524083bf5dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ca996190-6384-439c-b988-8524083bf5dc" testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" testName="TestMethod1" computerName="MTALT042" duration="00:00:00.0104673" startTime="2011-08-18T12:16:20.2575518-04:00" endTime="2011-08-18T12:16:21.4346191-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca996190-6384-439c-b988-8524083bf5dc">
+    </UnitTestResult>
+  </Results>
+</TestRun>

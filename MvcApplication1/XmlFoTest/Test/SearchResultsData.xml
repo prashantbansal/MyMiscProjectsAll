@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vce id="SKW+Cm2Ekwqk" authenticated-user="xantony" projects="query-meta velocity">
+  <list path="" num="100" level="0" more="root|root" start="0" per="10" subsearch="0">
+
+    <!-- Project Detail 1 Amendment-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="savedSearchName" type="html"><![CDATA[A & E Oregon]]></content>
+      <content name="type" type="html"><![CDATA[Amendment]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Replace Domiciliary Building]]></content>
+      <content name="submittalDate" type="text" action="cluster"><![CDATA[09/08/2008]]></content>
+      <content name="owner" type="text" link="http://google.com" action="cluster"><![CDATA[US Department of Veterans Affairs, Northwest Health Network]]></content>
+      <content name="ownerWebsite" type="text" action="cluster"><![CDATA[http://www.usva.gov]]></content>
+      <content name="location" type="text" action="cluster"><![CDATA[(1) VANCOUVER, WA]]></content>
+      <content name="zipCode" type="text" action="cluster"><![CDATA[97503, 98662]]></content>
+      <content name="country" type="text" action="cluster"><![CDATA[JACKSON, OR; CLARK, WA]]></content>
+      <content name="value" type="text" action="cluster"><![CDATA[$5,000,000.00 to $10,000,000.00]]></content>
+      <content name="marketSector" type="html" action="cluster"><![CDATA[Federal]]></content>
+      <content name="buyer" type="html" link="http://google.com" action="cluster"><![CDATA[Lorna Craig]]></content>
+      <content name="buyerRole" type="html" action="cluster"><![CDATA[Contracting Officer]]></content>
+      <content name="buyerPhone" type="html" action="cluster"><![CDATA[(503) 220-8262]]></content>
+      <content name="onviaReferenceNumber" type="html" action="cluster"><![CDATA[8057595 - 06/23/2008]]></content>
+      <content name="projectNumber" type="html" action="cluster"><![CDATA[HSCG87-08-B-643027]]></content>
+      <content name="Documents" link="http://google.com" type="html" action="cluster"><![CDATA[Amendment]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[9/2/2008]]></content>
+      <content name="googleMapURL" type="html" action="cluster"><![CDATA[http://maps.google.com]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[Y--Replace Domiciliary Building 218 Solicitation Number:
+        VA-260-08-RP-0403 Agency: Department of Veterans Affairs Office: VA Northwest Health Network Location: VA Northwest
+        Health Network General Information Original Posted Date:July 24, 2008 Posted Date: Aug 21, 2008 Res- ponse Date: September
+        8, 2008 Original Response Date: September 15,2008 Original Set Aside: N/A Set Aside: N/A Classification Code: Y --
+        Construction of structures and facilities NAICS Code: 236 -Commercial and Institutional Building Construction Contracting
+        Office Address: Department of Veterans Affairs;VA NW Health Network (VISN 20);Vancouver Square at the Mall, Suite
+        203;5115NE 82nd AVE;Vancouver WA 98662 Place of Performance:Department of Veterans Affairs;Southern Oregon
+        Rehabilitation Center and Clinics;8495 Crater Lake Hwy;White City, OR 97503 USA Solicitation Number: VA-260-08-RP- 0403
+        Notice Type:Modification/Amendment Please consult the list of document viewers if you cannot open a file. Point ofContact(s):
+        Lorna CraigContracting Officer 503-220-8262 Lorna.Craig@va.gov ***Original Synopsis*** Synopsis:
+        Added:Jul 24, 2008 6:53 pm Project Renovate Domiciliary Building 218 Project #692-333. The RFP will be issued on a full
+        andopen basis for construction. The location is White City, Oregon. General Construction: Contractor shall furnish all
+        necessary labor, material, and equipment to provide a complete building, including all utility systems, and associated components
+        as shown on thedrawings and described by the specifications.This includes, but is not limited to, demolition of existing
+        structures, general construction, alterations, site development, landscaping, drainage, mechanical, electrical, and certain other
+        items. Asbestos and lead paint removal are included in the project. The magnitude of construction is between $5,000,000
+        and$10,000,000. The RFP solicitation is anticipated to be issued on or about August 8, 2008, and offers will be due on
+        orabout September 10, 2008. No public bid opening procedures are applicable to this solicitation. A firm fixed price contract is
+        anticipated to be awarded using Best Value evaluation criteria. Anticipated award date is September 20, 2008.]]>
+      </content>
+    </document>
+    
+    
+    <!-- Project Detail 2 for pre-planning-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+      <content name="savedSearchName" type="html"><![CDATA[A & E Nevada]]></content>
+      <content name="type" type="html"><![CDATA[Pre Planning]]></content>
+      <content name="projectName" type="text" link="http://google.com" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+      <content name="location" type="text" action="cluster"><![CDATA[CLARK County, NV]]></content>
+      <content name="publicationDate" type="text" action="cluster"><![CDATA[6/1/2007]]></content>
+      <content name="meetingDate" type="text" action="cluster"><![CDATA[3/6/2007]]></content>
+      <content name="developmentType" type="text" action="cluster"><![CDATA[Residential]]></content>
+      <content name="proposedProduct" type="text" action="cluster"><![CDATA[Acers - 5.1]]></content>
+      <content name="entitlementStatus" type="text" action="cluster"><![CDATA[Conceptual Plan Submitted]]></content>
+      <content name="projectAddress" type="text" action="cluster"><![CDATA[(1) East Side of Steptoe Street and the North Side of Hamilton Avenue Within Whitney, NV]]></content>
+      <content name="zoningChange" type="text" action="cluster"><![CDATA[No]]></content>
+      <content name="notes" type="text" action="cluster"><![CDATA[RUD (Residential Urban Density) Zone]]></content>
+      <content name="contacts" type="html" action="cluster">
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Civiltec, Inc]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[70 East Horizon Ridge Parkway,Suite 190, Henderson,NV,89002]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Paulette Stacy]]></content>
+        </contact>
+        <contact>
+          <content name="contact" type="html" action="cluster"><![CDATA[Steptoe Garden Co., Lp]]></content>
+          <content name="role" type="html" action="cluster"><![CDATA[Applicant, Owner]]></content>
+          <content name="address" type="html" action="cluster"><![CDATA[5070 Tara Ave,#116,Las Vegas,NV,89146]]></content>
+          <content name="name" type="html" action="cluster"><![CDATA[Steven Grandview]]></content>
+          <content name="title" type="html" action="cluster"><![CDATA[Vice President]]></content>
+          <content name="department" type="html" action="cluster"><![CDATA[Engineering]]></content>
+          <content name="phone" type="html" action="cluster"><![CDATA[589) 555-5678]]></content>
+          <content name="fax" type="html" action="cluster"><![CDATA[589) 555-5600]]></content>
+          <content name="email" type="html" link="http://google.com" action="cluster"><![CDATA[Steven.Grandview@Steptoe.com]]></content>
+        </contact>
+      </content>
+      <content name="planningOfficials" type="html" action="cluster"><![CDATA[CLARK - Planning Commission]]></content>
+      <content name="planningOfficialsAddress" type="html" action="cluster"><![CDATA[500 S. Grand Central Pkwy., P.O. Box 551744 "89155-1744", , NV 89155]]></content>
+      <content name="planningOfficialsWebsite" type="html" action="cluster"><![CDATA[http://dsnet.co.clark.nv.us/]]></content>
+      <content name="projectFile#" type="html" action="cluster"><![CDATA[LU 08-0014,LU 00-0071,LUO3-0009]]></content>
+      <content name="APN#" type="html" action="cluster"><![CDATA[21E O8BB]]></content>
+      <content name="onviaNumber" type="html" action="cluster"><![CDATA[408454443]]></content>
+      <content name="documents" type="html" link="http://google.com" action="cluster"><![CDATA[Council Document]]></content>
+      <content name="documentAddedOn" type="html" action="cluster"><![CDATA[Added 9/2/2008]]></content>
+      <content name="projectDescription" type="html" action="cluster">
+        <![CDATA[UC-1723-06 STEPTOE GARDEN CO., LP:USE PERMIT for a planned unit development.DESIGN REVIEW for site layout
+            and model design on 5.1 acres in an RUD (Residential Urban Density) Zone. Generally located on the east side of
+            Steptoe Street and the north side of Hamilton Avenue within Whitney. RR/gt/es]]>
+      </content>
+  </document>
+
+    <!-- Project Detail 3 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[3 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="location" type="html" action="cluster"><![CDATA[Dallas, TX]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Project Detail 4 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[4 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Project Detail 5 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[5 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="location" type="html" action="cluster"><![CDATA[Seattle]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Project Detail 6 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[6 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="location" type="html" action="cluster"><![CDATA[Los Angeles, CA]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Project Detail 7 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[7 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="location" type="html" action="cluster"><![CDATA[Los Angeles, CA]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Project Detail 8 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-events2"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="type" type="html"><![CDATA[Bid]]></content>
+      <content name="title" type="text" action="cluster"><![CDATA[Omega Seals_test_0]]></content>
+      <content name="projectName" type="html" action="cluster"><![CDATA[8 Omega Seals]]></content>
+      <content name="bidNumber" type="html" action="cluster"><![CDATA[W912EK-08-T-0058]]></content>
+      <content name="location" type="html" action="cluster"><![CDATA[Dallas, TX]]></content>
+      <content name="projectDescription" type="html" action="cluster" weight="1"><![CDATA[Federal Business Opportunities Synopsis General Information Document Type: Presolicitation Notice Solicitation Number: W912EK-08-T-0058 Posted Date: Jan 15, 2008 Original Response Date: Feb 19, 2008 Current Response Date: Feb 19, 2008 Original Archive Date: Apr 19, 2008 Current Archive Date: Apr 19, 2008 Classification Code: 93 -- Nonmetallic fabricated materials Set Aside: Total Small Business Naics Code: 331528 -- Other Nonferrous Foundries (except Die-Casting) Contracting Office Address US Army Engineer District, Rock Island, P.O. Box 2004, Clock Tower Building, Attn: CEMVR-CT, Rock Island, IL 61204-2004 Description This is a pre-solicitation notice only. The solicitation will be posted to the FedBizOpps website, www.fbo.gov on or about 16 January 2008. To purchase Omega Black Rubber Seals with specific specifications as detailed in the solicitation. This sol icitation is a request for quote and is issued as 100% Small Business Set-Aside. The following NAICS code 331528 will apply with the size standard of 500 employees. The date and time for receipt of quotes will be on or about 19 February 2008, 4:00 p.m. l ocal time. It is the offerors responsibility to monitor the fedbizopps web site for amendments to the solicitation. The resultant contract will be a Firm Fixed Priced Contract in accordance with the solicitation procedures outlined in FAR Part 12, Acquis ition of Commercial Items/Services. All prospective offerors must have a Commercial and Government Entity Code (CAGE Code) and be actively registered in the Central Contractor Registration (CCR) at www.ccr.gov. The solicitation will not be available in paper format. All documents required for the offer submittal, including amendments to the offer submittal, shall be in hard copy. If you have questions, please contact Anthony Zemo at 309/794-5259 or email at Anthony.g.zemo@usace.army.mil. The contracto r shall submit 1 original copy of their offer to include the above information in order to properly evaluate your offer in accordance with the evaluation criteria outlined under to FAR 52-212-2 Evaluation &#x13; Commercial Items Point of Contact dawn.m.ewan, 309-794-5828 Email your questions to US Army Engineer District, Rock Island at dawn.m.ewan@usace.army.mil Place of Performance Address: US Army Engineer District, Rock Island Mississippi Project Office, 25549 - 182nd St Pleasant Valley IA Postal Code: 52767 Country: US]]></content>
+      <content name="submittalDate" type="html" action="cluster"><![CDATA[2/19/2008 4:00:00 PM]]></content>
+      <content name="preBidMandatory" type="html" action="cluster"><![CDATA[False]]></content>
+    </document>
+
+    <!-- Company Detail - 1-->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_1]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Federal Government]]></content>
+      <content name="relevance" type ="html"><![CDATA[1]]></content>
+      <content name="city" type ="html"><![CDATA[ANDERSON]]></content>
+      <content name="state" type ="html"><![CDATA[Texas]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[6/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 2 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_2]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Onvia]]></content>
+      <content name="relevance" type ="html"><![CDATA[2]]></content>
+      <content name="city" type ="html"><![CDATA[Seattle]]></content>
+      <content name="state" type ="html"><![CDATA[Washington]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[5/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 3 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_3]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Examiner.com]]></content>
+      <content name="relevance" type ="html"><![CDATA[3]]></content>
+      <content name="city" type ="html"><![CDATA[Denver]]></content>
+      <content name="state" type ="html"><![CDATA[Colorado]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[4/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[False]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 4 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_4]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[DocuSign]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[Seattle]]></content>
+      <content name="state" type ="html"><![CDATA[Washington]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 5 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_5]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Capital One]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[McLean]]></content>
+      <content name="state" type ="html"><![CDATA[Virginia]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 6 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_6]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[EMC Corporation]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[Hopkinton]]></content>
+      <content name="state" type ="html"><![CDATA[Massachusetts]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 7 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_7]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[iRobot]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[]]></content>
+      <content name="state" type ="html"><![CDATA[]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[False]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 8 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_8]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Motorola Inc]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[Boulder]]></content>
+      <content name="state" type ="html"><![CDATA[CO]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 9 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_9]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Motorola]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[Schaumburg]]></content>
+      <content name="state" type ="html"><![CDATA[Illinois]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[True]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- Company Detail - 10 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-orgs"
+				  id="Ndoc0"
+				  duplicates="Ndoc14 Ndoc115">
+
+      <content name="title" type="text" action="cluster"><![CDATA[Company_10]]></content>
+      <content name="companyName" type="html" action="cluster"><![CDATA[Verizon Wireless]]></content>
+      <content name="relevance" type ="html"><![CDATA[4]]></content>
+      <content name="city" type ="html"><![CDATA[Basking Ridge]]></content>
+      <content name="state" type ="html"><![CDATA[New Jersey]]></content>
+      <content name="lastUpdatedDate" type ="html"><![CDATA[3/19/2008 4:00:00 PM]]></content>
+      <content name="userAccess" type ="html"><![CDATA[False]]></content>
+      <!-- More Fields will be added -->
+    </document>
+
+    <!-- People Information 1 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 2 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ATA, AB. Second Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[APB, AB. Second Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Cotak]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 3 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Third Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Third Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Third Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 4 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Fourth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Fourth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Fourth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 5 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Fifth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Fifth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Fifth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 6 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Sixth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Sixth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Sixth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 7 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Seventh Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Seventh Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Seventh Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 8 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Eigth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Eigth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Eigth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 9 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Ninth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Ninth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Ninth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+    <!-- People Information 10 -->
+    <document vse-key="63450d47-7519-45eb-8b05-2305ad5408cc"
+				  vse-key-normalized="vse-key-normalized"
+				  ct="text/xml"
+				  url="onvia://63450d47-7519-45eb-8b05-2305ad5408cc/"
+				  source="onvia-people"
+				  id="Ndoc0"
+				  duplicates="">
+      <content name="title"  type="text" action="cluster"><![CDATA[ACA, Ft. Tenth Sam Houston_test_0]]></content>
+      <content name="name"   type="html" action="cluster"><![CDATA[ACA, Ft. Tenth Sam Houston]]></content>
+      <content name="sector" type="html" action="cluster"><![CDATA[Tenth Federal]]></content>
+      <content name="relationship" type="html" action="cluster"><![CDATA[organizationContact[col]7149389566ce80-54d3-46b9-8f37-2898745843950]]><![CDATA[organizationContact[col]8540625187143f-0404-4fed-a83f-bbdee807f3cb0]]><![CDATA[organizationContact[col]575261ec3f2a50-db49-4bf9-9b6d-13615462ed390]]><![CDATA[organizationContact[col]434293610a5c9a-52d6-4b96-a106-499109319d340]]><![CDATA[organizationContact[col]6801332f192467-eb20-47a0-8b69-22511a5141ab0]]><![CDATA[organizationContact[col]8424724563b0c4-028b-410e-8842-feb89b9cb8160]]><![CDATA[organizationContact[col]85796915d02f5e-a4d5-4fc6-a67e-c6658ebee4b00]]><![CDATA[organizationContact[col]853870db872128-566d-47fe-9e8e-ae4b130125620]]><![CDATA[organizationContact[col]827733cd8c26f6-19a9-4794-a134-7715213f48420]]><![CDATA[organizationContact[col]840634dcf7efac-3545-46dc-9ab4-2b0d76e826200]]><![CDATA[organizationContact[col]739531e9e0bb73-d282-4744-aa5f-35ec629fb1e50]]><![CDATA[organizationContact[col]72935810db05f4-7851-45e3-a179-43db88631fac0]]><![CDATA[organizationContact[col]844951065c5a4b-39cd-4204-a973-d682e3faad710]]><![CDATA[organizationContact[col]842751e211d9e0-db15-4a09-9af9-c92050b5432a0]]><![CDATA[organizationContact[col]798433a9b519ba-6dd1-4301-b988-23dfb4e542860]]><![CDATA[organizationContact[col]85573423821898-4429-49c4-9b8a-670865ca7ed20]]><![CDATA[organizationContact[col]841047dfd1f197-f190-4519-8eb7-b80a717ec4d20]]><![CDATA[organizationContact[col]7161269490693b-f4c4-40e3-8d73-98d251d058560]]><![CDATA[organizationContact[col]7054767e8c3d09-63cf-4953-aedc-99444dd119930]]><![CDATA[organizationContact[col]8179353810508d-4503-4460-9038-71b1d4e032050]]><![CDATA[organizationContact[col]801832a34df75a-3271-4ab9-8f87-33e811c55f030]]><![CDATA[organizationContact[col]502759f4846553-cb2e-49ca-a06b-1a39f730351f0]]><![CDATA[organizationContact[col]713920dd0280b8-d156-4c3a-8cdc-377f400675830]]><![CDATA[organizationContact[col]801364ec948311-0b4b-4fcf-8472-9b1cc90cd78e0]]><![CDATA[organizationContact[col]4321041a79c4af-b652-4fa7-8ab6-7360f1f371030]]><![CDATA[organizationContact[col]819129a28f62d6-1e29-443f-ad78-872312bcfbfe0]]><![CDATA[organizationContact[col]8423164e3e8beb-10d8-4b16-aa78-779664824b6c0]]><![CDATA[organizationContact[col]766488cdcf4be6-1aa5-415f-86d2-4a0ce75987070]]><![CDATA[organizationContact[col]857233af3be735-adcd-4c4f-9ea6-bb881bcc4e540]]><![CDATA[organizationContact[col]84103562dea26d-ec84-4acd-9785-a0fb6d17bb4d0]]><![CDATA[organizationContact[col]8415718746a955-9a4e-4a2d-ba00-4ae8faa1a5a30]]><![CDATA[organizationContact[col]7087506e05686b-23fe-4594-afa6-42eef898efba0]]><![CDATA[organizationContact[col]829500afd1b90c-ac26-4784-8668-e940a5f30c3a0]]><![CDATA[organizationContact[col]318847d9c0951c-c125-4e9d-b7d7-e2c3e16546250]]><![CDATA[organizationContact[col]84281719c7820a-6e84-4fd8-830d-1d3ee6f071c00]]><![CDATA[organizationContact[col]85795952e54261-cb20-4282-b471-194cefe32fa60]]><![CDATA[organizationContact[col]84104339066a57-0d63-4da3-a811-664fe2d81bef0]]><![CDATA[organizationContact[col]839976420e3c6e-9bb1-40f1-b786-49bf711ff5b90]]><![CDATA[organizationContact[col]828792f1d36bac-866b-4c9d-8fef-f52f5e9271780]]></content>
+    </document>
+
+  </list>
+</vce>

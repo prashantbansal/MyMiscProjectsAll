@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:wordDocument xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" 
+                xmlns:v="urn:schemas-microsoft-com:vml" 
+                xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p>
+      <w:r>
+        <w:t>Hello World!</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:pict>
+          <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:250; height:200">
+            <v:imagedata r:id="rId4"/>
+          </v:shape>
+        </w:pict>
+      </w:r>
+    </w:p>
+  </w:body>
+</w:wordDocument>

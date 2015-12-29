@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ec7e783d-deb3-4451-807a-a85e9762da20" name="Administrator@MTALT042 2011-08-18 14:20:07" runUser="MTALT042\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="adff75a4-7c2e-41eb-ace4-74f44b9933a8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MTALT042 2011-08-18 14_20_07">
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\SpecFlow.1.7.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-18T14:20:07.8013830-04:00" queuing="2011-08-18T14:20:08.8794446-04:00" start="2011-08-18T14:20:09.0404538-04:00" finish="2011-08-18T14:20:37.1680626-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a">
+      <Execution id="c505b2ee-6c27-4c56-aa64-118bb2ce0428" />
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.UnitTest1, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="AddTwoStrings1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1">
+      <Description>Add Two strings1</Description>
+      <Execution id="d745d3ba-3b03-4e58-a4fe-0b5d17f359b5" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings1" />
+    </UnitTest>
+    <UnitTest name="AddTwoStrings" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="21f4c6be-d174-c720-b71a-62728be093bb">
+      <Description>Add Two strings</Description>
+      <Execution id="25249181-de19-406f-970f-7bbf6359788e" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21f4c6be-d174-c720-b71a-62728be093bb" executionId="25249181-de19-406f-970f-7bbf6359788e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1" executionId="d745d3ba-3b03-4e58-a4fe-0b5d17f359b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" executionId="c505b2ee-6c27-4c56-aa64-118bb2ce0428" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="25249181-de19-406f-970f-7bbf6359788e" testId="21f4c6be-d174-c720-b71a-62728be093bb" testName="AddTwoStrings" computerName="MTALT042" duration="00:00:13.8170404" startTime="2011-08-18T14:20:09.1854621-04:00" endTime="2011-08-18T14:20:24.3973322-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25249181-de19-406f-970f-7bbf6359788e">
+      <Output>
+        <StdOut>Given I have entered 30 as first Value into computer
+-&gt; done: BindingSteps.IHaveEnteredFirstIntoComputer(30) (2.7s)
+And I have entered 70 as Second value into computer
+-&gt; done: BindingSteps.IHaveEnteredSecondIntoComputer(70) (2.7s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (1.2s)
+Then the result should be 100 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(100) (2.7s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d745d3ba-3b03-4e58-a4fe-0b5d17f359b5" testId="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1" testName="AddTwoStrings1" computerName="MTALT042" duration="00:00:12.4916928" startTime="2011-08-18T14:20:24.4103329-04:00" endTime="2011-08-18T14:20:37.0750573-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d745d3ba-3b03-4e58-a4fe-0b5d17f359b5">
+      <Output>
+        <StdOut>Given I have entered 40 as first Value into computer
+-&gt; done: BindingSteps.IHaveEnteredFirstIntoComputer(40) (1.6s)
+And I have entered 50 as Second value into computer
+-&gt; done: BindingSteps.IHaveEnteredSecondIntoComputer(50) (4.0s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (1.2s)
+Then the result should be 90 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(90) (1.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c505b2ee-6c27-4c56-aa64-118bb2ce0428" testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" testName="TestMethod1" computerName="MTALT042" duration="00:00:00.0003383" startTime="2011-08-18T14:20:37.1020589-04:00" endTime="2011-08-18T14:20:37.1100593-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c505b2ee-6c27-4c56-aa64-118bb2ce0428">
+    </UnitTestResult>
+  </Results>
+</TestRun>

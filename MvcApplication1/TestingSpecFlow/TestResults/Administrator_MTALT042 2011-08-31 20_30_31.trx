@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="86576f16-5ea5-4c85-b1cf-2cb2bf52f774" name="Administrator@MTALT042 2011-08-31 20:30:31" runUser="MTALT042\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="adff75a4-7c2e-41eb-ace4-74f44b9933a8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MTALT042 2011-08-31 20_30_31">
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\SpecFlow.1.7.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\pnunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.framework.dll" />
+      <DeploymentItem filename="D:\Prashant\Code\TestingSpecFlow\packages\NUnit.2.5.10.11092\lib\nunit.mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-31T20:30:31.8477478-04:00" queuing="2011-08-31T20:30:32.0937619-04:00" start="2011-08-31T20:30:32.1307640-04:00" finish="2011-08-31T20:30:32.7928018-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="4" error="0" failed="1" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a">
+      <Execution id="89fab4bd-159b-4977-a04f-581035baad5a" />
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.UnitTest1, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="AddTwoStrings" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="21f4c6be-d174-c720-b71a-62728be093bb">
+      <Description>Add Two strings</Description>
+      <Execution id="884a6760-8011-4584-a797-e75234cf1706" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings" />
+    </UnitTest>
+    <UnitTest name="AddTwoStrings1" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1">
+      <Description>Add Two strings1</Description>
+      <Execution id="f4b2f880-7d19-4337-97d9-bfcc5847adcc" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStrings1" />
+    </UnitTest>
+    <UnitTest name="DivideNuber" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="c17229c9-37c6-8adb-e22a-c2d714d0666c">
+      <Description>Divide Nuber</Description>
+      <Execution id="1c8f5fd3-9d27-4426-824c-e2afa8e2c6c9" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DivideNuber" />
+    </UnitTest>
+    <UnitTest name="AddMultipleNumbers" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="83792e57-41a7-34fc-bfcb-21110fa9d7bf">
+      <Description>Add Multiple Numbers</Description>
+      <Execution id="30ba4464-cd6c-447a-b8ea-08abc65e5735" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddMultipleNumbers" />
+    </UnitTest>
+    <UnitTest name="AddValues" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="7ae43de1-b62f-4605-865a-823610be30db">
+      <Description>Add Values</Description>
+      <Execution id="ee60cec1-8bcb-4eee-9790-ec828af865a6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddValues" />
+    </UnitTest>
+    <UnitTest name="AddTwoStringsValues" storage="d:\prashant\code\testingspecflow\testingspecflow\bin\debug\testingspecflow.dll" id="2774e2b4-08ca-aced-7f0a-f637f05cebc0">
+      <Description>Add two strings values</Description>
+      <Execution id="8f7f57b6-3825-4153-b37d-1329d99e4136" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>Addition</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="D:/Prashant/Code/TestingSpecFlow/TestingSpecFlow/bin/Debug/TestingSpecFlow.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestingSpecFlow.AdditionFeature, TestingSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddTwoStringsValues" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21f4c6be-d174-c720-b71a-62728be093bb" executionId="884a6760-8011-4584-a797-e75234cf1706" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2774e2b4-08ca-aced-7f0a-f637f05cebc0" executionId="8f7f57b6-3825-4153-b37d-1329d99e4136" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ae43de1-b62f-4605-865a-823610be30db" executionId="ee60cec1-8bcb-4eee-9790-ec828af865a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83792e57-41a7-34fc-bfcb-21110fa9d7bf" executionId="30ba4464-cd6c-447a-b8ea-08abc65e5735" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c17229c9-37c6-8adb-e22a-c2d714d0666c" executionId="1c8f5fd3-9d27-4426-824c-e2afa8e2c6c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1" executionId="f4b2f880-7d19-4337-97d9-bfcc5847adcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" executionId="89fab4bd-159b-4977-a04f-581035baad5a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="884a6760-8011-4584-a797-e75234cf1706" testId="21f4c6be-d174-c720-b71a-62728be093bb" testName="AddTwoStrings" computerName="MTALT042" duration="00:00:00.0814087" startTime="2011-08-31T20:30:32.1417646-04:00" endTime="2011-08-31T20:30:32.5537882-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="884a6760-8011-4584-a797-e75234cf1706">
+      <Output>
+        <StdOut>Given I have entered 30 as first Value into computer
+-&gt; done: BindingSteps.IHaveEnteredFirstIntoComputer(30) (0.0s)
+And I have entered 70 as Second value into computer
+-&gt; done: BindingSteps.IHaveEnteredSecondIntoComputer(70) (0.0s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (0.0s)
+Then the result should be 100 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(100) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8f7f57b6-3825-4153-b37d-1329d99e4136" testId="2774e2b4-08ca-aced-7f0a-f637f05cebc0" testName="AddTwoStringsValues" computerName="MTALT042" duration="00:00:00.0288409" startTime="2011-08-31T20:30:32.5567883-04:00" endTime="2011-08-31T20:30:32.5897902-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f7f57b6-3825-4153-b37d-1329d99e4136">
+      <Output>
+        <StdOut>Given I enter "prashant"
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Given(@"I enter ""prashant""")]
+        public void GivenIEnterPrashant()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+And I enter "Aditi"
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Given(@"I enter ""Aditi""")]
+        public void GivenIEnterAditi()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+When i click on enter button
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [When(@"i click on enter button")]
+        public void WhenIClickOnEnterButton()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+Then my result should be "prashant Aditi"
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Then(@"my result should be ""prashant Aditi""")]
+        public void ThenMyResultShouldBePrashantAditi()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }</StdOut>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. No matching step definition found for one or more steps.
+[Binding]
+public class StepDefinitions
+{
+    [Given(@"I enter ""Aditi""")]
+    public void GivenIEnterAditi()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [Given(@"I enter ""prashant""")]
+    public void GivenIEnterPrashant()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [Then(@"my result should be ""prashant Aditi""")]
+    public void ThenMyResultShouldBePrashantAditi()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [When(@"i click on enter button")]
+    public void WhenIClickOnEnterButton()
+    {
+        ScenarioContext.Current.Pending();
+    }
+}
+</Message>
+          <StackTrace>   at lambda_method(Closure , String , Object[] )
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestInconclusive(String message)
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestPending(String message)
+   at TechTalk.SpecFlow.ErrorHandling.ErrorProvider.ThrowPendingError(TestStatus testStatus, String message)
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at TestingSpecFlow.AdditionFeature.ScenarioCleanup() in D:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature.cs:line 0
+   at TestingSpecFlow.AdditionFeature.AddTwoStringsValues() in d:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature:line 46
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ee60cec1-8bcb-4eee-9790-ec828af865a6" testId="7ae43de1-b62f-4605-865a-823610be30db" testName="AddValues" computerName="MTALT042" duration="00:00:00.0180833" startTime="2011-08-31T20:30:32.5977907-04:00" endTime="2011-08-31T20:30:32.6197919-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ee60cec1-8bcb-4eee-9790-ec828af865a6">
+      <Output>
+        <StdOut>Given I give number 20
+-&gt; done: BindingSteps.GivenIGiveNumber40(20) (0.0s)
+And I give number 30
+-&gt; done: BindingSteps.GivenIGiveNumber40(30) (0.0s)
+When I press Hello
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [When(@"I press Hello")]
+        public void WhenIPressHello()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+And I press bolo
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [When(@"I press bolo")]
+        public void WhenIPressBolo()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+Then the result should be 30
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Then(@"the result should be 30")]
+        public void ThenTheResultShouldBe30()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+And the data should be displayed empty
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Then(@"the data should be displayed empty")]
+        public void ThenTheDataShouldBeDisplayedEmpty()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+When I press hello again
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [When(@"I press hello again")]
+        public void WhenIPressHelloAgain()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }
+
+Then it should work fine
+-&gt; No matching step definition found for the step. Use the following code to create one:
+    [Binding]
+    public class StepDefinitions
+    {
+        [Then(@"it should work fine")]
+        public void ThenItShouldWorkFine()
+        {
+            ScenarioContext.Current.Pending();
+        }
+    }</StdOut>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. No matching step definition found for one or more steps.
+[Binding]
+public class StepDefinitions
+{
+    [Then(@"it should work fine")]
+    public void ThenItShouldWorkFine()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [Then(@"the data should be displayed empty")]
+    public void ThenTheDataShouldBeDisplayedEmpty()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [Then(@"the result should be 30")]
+    public void ThenTheResultShouldBe30()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [When(@"I press bolo")]
+    public void WhenIPressBolo()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [When(@"I press hello again")]
+    public void WhenIPressHelloAgain()
+    {
+        ScenarioContext.Current.Pending();
+    }
+    
+    [When(@"I press Hello")]
+    public void WhenIPressHello()
+    {
+        ScenarioContext.Current.Pending();
+    }
+}
+</Message>
+          <StackTrace>   at lambda_method(Closure , String , Object[] )
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestInconclusive(String message)
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestPending(String message)
+   at TechTalk.SpecFlow.ErrorHandling.ErrorProvider.ThrowPendingError(TestStatus testStatus, String message)
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at TestingSpecFlow.AdditionFeature.ScenarioCleanup() in D:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature.cs:line 0
+   at TestingSpecFlow.AdditionFeature.AddValues() in d:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature:line 34
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="30ba4464-cd6c-447a-b8ea-08abc65e5735" testId="83792e57-41a7-34fc-bfcb-21110fa9d7bf" testName="AddMultipleNumbers" computerName="MTALT042" duration="00:00:00.0030307" startTime="2011-08-31T20:30:32.6217921-04:00" endTime="2011-08-31T20:30:32.6267923-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30ba4464-cd6c-447a-b8ea-08abc65e5735">
+      <Output>
+        <StdOut>Given I entered 30
+-&gt; done: BindingSteps.IEnteredNumber(30) (0.0s)
+And I entered 40
+-&gt; done: BindingSteps.IEnteredNumber(40) (0.0s)
+And I entered 50
+-&gt; done: BindingSteps.IEnteredNumber(50) (0.0s)
+And I entered 60
+-&gt; done: BindingSteps.IEnteredNumber(60) (0.0s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (0.0s)
+Then the result should be 180 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(180) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1c8f5fd3-9d27-4426-824c-e2afa8e2c6c9" testId="c17229c9-37c6-8adb-e22a-c2d714d0666c" testName="DivideNuber" computerName="MTALT042" duration="00:00:00.1006992" startTime="2011-08-31T20:30:32.6287925-04:00" endTime="2011-08-31T20:30:32.7317984-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c8f5fd3-9d27-4426-824c-e2afa8e2c6c9">
+      <Output>
+        <StdOut>Given I give number 40
+-&gt; done: BindingSteps.GivenIGiveNumber40(40) (0.0s)
+And It has to be divided by 10
+-&gt; binding error: Parameter count mismatch! The binding method 'BindingSteps.GivenItHasToBeDividedBy10()' should have 1 parameters
+When I press OK
+-&gt; skipped because of previous errors
+Then My outcome should be 4
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method TestingSpecFlow.AdditionFeature.DivideNuber threw exception: 
+TechTalk.SpecFlow.BindingException: Parameter count mismatch! The binding method 'BindingSteps.GivenItHasToBeDividedBy10()' should have 1 parameters</Message>
+          <StackTrace>    at TechTalk.SpecFlow.TestRunner.GetExecuteArguments(BindingMatch match)
+   at TechTalk.SpecFlow.TestRunner.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at TestingSpecFlow.AdditionFeature.ScenarioCleanup() in D:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature.cs:line 0
+   at TestingSpecFlow.AdditionFeature.DivideNuber() in d:\Prashant\Code\TestingSpecFlow\TestingSpecFlow\SpecFlowFeature.feature:line 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f4b2f880-7d19-4337-97d9-bfcc5847adcc" testId="e96c9b85-2aa5-b97d-aa78-ac1fe76603d1" testName="AddTwoStrings1" computerName="MTALT042" duration="00:00:00.0058459" startTime="2011-08-31T20:30:32.7357986-04:00" endTime="2011-08-31T20:30:32.7507994-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4b2f880-7d19-4337-97d9-bfcc5847adcc">
+      <Output>
+        <StdOut>Given I have entered 40 as first Value into computer
+-&gt; done: BindingSteps.IHaveEnteredFirstIntoComputer(40) (0.0s)
+And I have entered 50 as Second value into computer
+-&gt; done: BindingSteps.IHaveEnteredSecondIntoComputer(50) (0.0s)
+When I press add
+-&gt; done: BindingSteps.IPressAdd() (0.0s)
+Then the result should be 90 on the screen
+-&gt; done: BindingSteps.ThenTheResultShouldBe(90) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="89fab4bd-159b-4977-a04f-581035baad5a" testId="f2a4f8d6-bc5f-4c12-a839-172bc25c2a5a" testName="TestMethod1" computerName="MTALT042" duration="00:00:00.0003818" startTime="2011-08-31T20:30:32.7567998-04:00" endTime="2011-08-31T20:30:32.7618001-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="89fab4bd-159b-4977-a04f-581035baad5a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

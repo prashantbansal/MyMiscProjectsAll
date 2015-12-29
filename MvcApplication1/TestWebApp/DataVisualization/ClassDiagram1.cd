@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataVisualization.AgencyDetailsOverviewPresenter">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAABAAAAAIAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>AgencyDetailsOverviewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataVisualization.AgencyDetailsOverviewModel">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgencyDetailsModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DataVisualization.IAgencyDetailsOverview">
+    <Position X="7" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>IAgencyDetailsOverview.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DataVisualization.IAgencyPurchases">
+    <Position X="4.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAACAAAAAAAAAAAAAAAAEAAAAAAAIAAA=</HashCode>
+      <FileName>IAgencyPurchases.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

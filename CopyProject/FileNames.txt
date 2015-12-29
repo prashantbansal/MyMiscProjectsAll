@@ -1,0 +1,8 @@
+ConfigOverrideScript.sql
+Release7.6.sql
+Release8 - Copy - Copy.sql
+Release8 - Copy.sql
+Release8.sql
+Release8_DataMigration.sql
+Release8_Reporting - Copy.sql
+Release8_Reporting.sql

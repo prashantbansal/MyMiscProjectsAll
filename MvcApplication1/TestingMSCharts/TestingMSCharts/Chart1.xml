@@ -1,0 +1,42 @@
+<Chart BackColor="AliceBlue" Width="1000" Height="400" BorderlineColor="26, 59, 105" BorderlineWidth="2">
+  <Series>
+    <Series Name="Employee" Legend="Employee" XValueType="String" YValueType="String" Palette="Bright" ChartArea="Employee" CustomProperties="DrawingStyle=Emboss" IsVisibleInLegend="False">
+      <Points>
+        <DataPoint YValues="31" LabelToolTip="lael tool tip" LabelUrl="www.google.com0.com" LegendToolTip="legened tool tip" ToolTip="31 ==&gt; 31" BorderWidth="10" Color="Red" PostBackValue="Bid" AxisLabel="#VAL" />
+        <DataPoint YValues="26" LabelToolTip="lael tool tip" LabelUrl="www.google.com1.com" LegendToolTip="legened tool tip" ToolTip="26 ==&gt; 26" BorderWidth="10" Color="Green" PostBackValue="Amendement" AxisLabel="#VAL" />
+        <DataPoint YValues="20" LabelToolTip="lael tool tip" LabelUrl="www.google.com2.com" LegendToolTip="legened tool tip" ToolTip="20 ==&gt; 20" BorderWidth="10" Color="Yellow" PostBackValue="RFP/RFQ" AxisLabel="#VAL" />
+        <DataPoint YValues="46" LabelToolTip="lael tool tip" LabelUrl="www.google.com3.com" LegendToolTip="legened tool tip" ToolTip="46 ==&gt; 46" BorderWidth="10" Color="Purple" PostBackValue="Subcontracting" AxisLabel="#VAL" />
+        <DataPoint YValues="7" LabelToolTip="lael tool tip" LabelUrl="www.google.com4.com" LegendToolTip="legened tool tip" ToolTip="7 ==&gt; 7" BorderWidth="10" Color="Orange" PostBackValue="Award" AxisLabel="#VAL" />
+        <DataPoint YValues="2" LabelToolTip="lael tool tip" LabelUrl="www.google.com5.com" LegendToolTip="legened tool tip" ToolTip="2 ==&gt; 2" BorderWidth="10" Color="Blue" PostBackValue="Grant" AxisLabel="#VAL" />
+      </Points>
+    </Series>
+  </Series>
+  <ChartAreas>
+    <ChartArea Name="Employee" BackColor="White" BorderDashStyle="Solid">
+      <AxisY Title="No of Orders" TitleFont="Verdana, 10pt, style=Bold">
+      </AxisY>
+      <AxisX Title="Employee Names" TitleFont="Verdana, 10pt, style=Bold" Url="www.google.com" Interval="10" Minimum="0">
+        <MajorGrid Enabled="False" />
+      </AxisX>
+    </ChartArea>
+  </ChartAreas>
+  <Legends>
+    <Legend Name="Employee" IsEquallySpacedItems="True" TableStyle="Wide" Alignment="Far" Docking="Bottom" Title="Employee Details" TitleFont="Verdana, 10pt, style=Bold" TitleSeparator="ThickGradientLine" TitleSeparatorColor="Orange">
+      <CustomItems>
+        <LegendItem Name="31 ==&gt; 31" Color="Red" ShadowOffset="1" ToolTip="31 ==&gt; 31">
+        </LegendItem>
+        <LegendItem Name="26 ==&gt; 26" Color="Green" ShadowOffset="1" ToolTip="26 ==&gt; 26">
+        </LegendItem>
+        <LegendItem Name="20 ==&gt; 20" Color="Yellow" ShadowOffset="1" ToolTip="20 ==&gt; 20">
+        </LegendItem>
+        <LegendItem Name="46 ==&gt; 46" Color="Purple" ShadowOffset="1" ToolTip="46 ==&gt; 46">
+        </LegendItem>
+        <LegendItem Name="7 ==&gt; 7" Color="Orange" ShadowOffset="1" ToolTip="7 ==&gt; 7">
+        </LegendItem>
+        <LegendItem Name="2 ==&gt; 2" Color="Blue" ShadowOffset="1" ToolTip="2 ==&gt; 2">
+        </LegendItem>
+      </CustomItems>
+    </Legend>
+  </Legends>
+  <BorderSkin SkinStyle="Emboss" />
+</Chart>

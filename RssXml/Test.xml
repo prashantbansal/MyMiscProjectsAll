@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>ReelSEO Video News</title>
+<link>http://farm7.static.flickr.com/6100/6290109705_3a397b2ae9_t.jpg</link>
+<description>The ReelSEO Video News Archive</description>
+<item>
+<title>MRRS Example Video</title>
+<link>http://farm7.static.flickr.com/6100/6290109705_3a397b2ae9_t.jpg</link>
+<description>The example landing page for this MRSS item</description>
+<guid isPermaLink="false">http://farm7.static.flickr.com/6100/6290109705_3a397b2ae9_t.jpg</guid>
+<media:content url="http://farm7.static.flickr.com/6100/6290109705_3a397b2ae9_t.jpg" fileSize="405321? type="video/x-msvideo" height="240" width="320? duration="120" medium="video" isDefault="true">
+<media:title>The ReelSEO MRSS example video</media:title>
+<media:description>Check out the 120 seconds of fast-paced MRSS fun with ReelSEO.</media:description>
+<media:thumbnail url="http://farm7.static.flickr.com/6100/6290109705_3a397b2ae9_t.jpg" height="120" width="160"/>
+</media:content>
+</item>
+</channel>
+</rss>
+

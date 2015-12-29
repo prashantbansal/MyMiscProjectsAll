@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Tutorial", "Tutorial\Tutorial.rptproj", "{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Debug|Default.ActiveCfg = Debug
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Debug|Default.Build.0 = DebugLocal
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Debug|Default.Deploy.0 = DebugLocal
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.DebugLocal|Default.Build.0 = DebugLocal
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Release|Default.ActiveCfg = Release
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Release|Default.Build.0 = Release
+		{C9763E54-A29B-4AD9-A45E-8ED5AA2EF61F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

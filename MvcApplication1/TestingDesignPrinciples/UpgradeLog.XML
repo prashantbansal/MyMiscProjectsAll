@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestingDesignPrinciples">
+</Property><Property Name="Solution File" Value="D:\Projects\TestingDesignPrinciples\TestingDesignPrinciples.sln">
+</Property><Property Name="Date" Value="Tuesday, June 05, 2012">
+</Property><Property Name="Time" Value="21:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TestingDesignPrinciples" Source="TestingDesignPrinciples\TestingDesignPrinciples.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestingDesignPrinciples" Source="TestingDesignPrinciples\TestingDesignPrinciples.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestingDesignPrinciples.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestingDesignPrinciples.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestingDesignPrinciples" Source="TestingDesignPrinciples\TestingDesignPrinciples.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

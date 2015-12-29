@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+	<fo:layout-master-set>
+	
+		<!--Master details for information section-->
+		<!--
+		<fo:simple-page-master master-name="first-page" page-width="1010px" margin-top="60px" margin-bottom="80px" 
+			margin-left="60px"  margin-right="60px">
+			<fo:region-body/>
+			<fo:region-after extent="5px"/>
+		</fo:simple-page-master>
+		-->
+		<!--Master details for Project Details section-->
+		<fo:simple-page-master master-name="project-simple" page-width="1010px" margin-top="60px" margin-bottom="80px" 
+			margin-left="60px"  margin-right="60px">
+			<!--body-->
+			<fo:region-body column-count="2" reference-orientation="0" column-gap="30px"/>
+			<!--footer-->
+			<fo:region-after extent="5px"/>
+		</fo:simple-page-master>
+		<fo:simple-page-master master-name="project-details" page-width="1010px" margin-top="60px" margin-bottom="80px" 
+			margin-left="60px"  margin-right="60px">
+			<!--body-->
+			<fo:region-body column-count="2" reference-orientation="0" column-gap="30px"/>
+			<!--footer-->
+			<fo:region-after extent="5px"/>
+		</fo:simple-page-master>
+		
+		<fo:page-sequence-master master-name="PagingAll" >
+			<fo:repeatable-page-master-reference master-reference="project-details"/>
+		</fo:page-sequence-master>
+
+	</fo:layout-master-set>
+		<fo:page-sequence master-reference="project-simple">		
+		<fo:flow flow-name="xsl-region-body">
+<fo:block id="PageNo">This is Page for Table of Contents</fo:block>
+<fo:block>Amendments	<fo:page-number-citation ref-id="AmendementStarted"/>-<fo:page-number-citation ref-id="AmendementClosed"/>		
+		</fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+	
+	<fo:page-sequence master-reference="PagingAll" format="1">
+	<fo:static-content flow-name="xsl-region-after">
+			<fo:block text-align="right"><fo:inline text-align="right" color="#000000" font="10pt ARIAL"><fo:page-number/></fo:inline>
+		</fo:block>
+		</fo:static-content>
+		<fo:flow flow-name="xsl-region-body">
+		<fo:block id="AmendementStarted"></fo:block>
+		<fo:block>The Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you h, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license withOnvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.comThe Onvia Guide © 2008 Onvia, Inc. All rights are reserved. Unless you have a multiple site or multiple office license with Onvia, only you alone can use The Onvia Guide at asingle location. Without the written consent of Onvia, you cannot modify, copy, display, reproduce, share, sell, publish, transfer, assign, or distribute The Onvia Guide or anyportion thereof. For any questions regarding licenses to your other office locations, please contact Onvia Customer Service at (888)484-3374 or customerservice@onvia.com</fo:block>
+<fo:block id="PageNo"  >This is Page 1</fo:block>
+<fo:block id="AmendmentClosed"></fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+		<fo:page-sequence master-reference="PagingAll" format="1">
+			<fo:static-content flow-name="xsl-region-after">
+			<fo:block text-align="right"><fo:inline text-align="right" color="#000000" font="10pt ARIAL"><fo:page-number/>
+			</fo:inline></fo:block>
+		</fo:static-content>
+		<fo:flow flow-name="xsl-region-body">
+<fo:block id="PageNo">This is Page 2</fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+		<fo:page-sequence master-reference="PagingAll" format="1">
+		<fo:flow flow-name="xsl-region-body">
+<fo:block id="PageNo">This is Page 3</fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+		<fo:page-sequence master-reference="PagingAll" format="1">
+		<fo:flow flow-name="xsl-region-body">
+<fo:block>	<fo:external-graphic id="smiley" src="url('Images\Amendment.gif')"/></fo:block>	
+<fo:block id="AmendementClosed">This is Page 4</fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+</fo:root>
